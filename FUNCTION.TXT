@@ -9,6 +9,7 @@ DONT FORGET TO SET YOUR TIMEZONE ON SETTING
 <%= DATE %>
 <%= TIME %>
 <%= RANDSTRING1 %>
+<%= TOBASE64("your text that want to encode base64") %>
 <%- LETTERTOIMAGE %>
 <%- LOGO %>
 <%- MYLOGO %>
