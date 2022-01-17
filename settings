@@ -2,12 +2,12 @@
 const smtp =[
 
    {
-    host: "smtpout.secureserver.net",
-    username: "jhgewalt@gewaltonline.com",
-    password: "N8426bravo",
+    host: "",
+    username: "",
+    password: "",
     port: 587,
     secure:false,
-    frommail : "no-reply@invoicecloud.net" 
+    frommail : "" 
    },
   
 
